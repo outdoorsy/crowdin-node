@@ -1,12 +1,12 @@
 {
-  "name": "crowdin",
+  "name": "crowdin-node",
   "version": "1.0.0",
   "description": "Download translations from Crowdin",
   "license": "Apache 2.0",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hailocab/crowdin-node.git"
+    "url": "https://github.com/clemmy/crowdin-node.git"
   },
   "scripts": {
     "test": "mocha",
