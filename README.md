@@ -10,7 +10,7 @@ This is an unofficial API client library. Crowdin and the Crowdin API are the pr
 ## Install
 
 ```bash
-npm install crowdin
+npm install crowdin-node
 ```
 
 ## Usage
@@ -35,6 +35,9 @@ Returns a Promise of a GET request to the set API endpoint. Uses `requestData()`
 
 ### .postRequest(String endpoint)
 Returns a Promise of a POST request to the set API endpoint. Uses `requestData()`.
+
+### .getTranslationStatus()
+Returns a Promise of translation status. Uses `postRequest()`.
 
 ### .getInfo()
 Returns a Promise of project information. Uses `postRequest()`.
