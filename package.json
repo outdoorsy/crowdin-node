@@ -16,19 +16,19 @@
     "crowdin"
   ],
   "dependencies": {
-    "bluebird": "^2.9.21",
-    "graceful-fs": "^3.0.6",
+    "bluebird": "^3.5.3",
+    "graceful-fs": "^4.1.15",
     "js-yaml": "^3.2.7",
-    "lodash": "^3.6.0",
+    "lodash": "^4.17.11",
     "request": "^2.54.0",
     "unzip": "^0.1.11"
   },
   "devDependencies": {
     "body-parser": "^1.12.2",
-    "del": "^1.1.1",
+    "del": "^3.0.0",
     "express": "^4.12.3",
-    "istanbul": "^0.3.13",
-    "mocha": "^2.2.1",
-    "should": "^5.2.0"
+    "istanbul": "^0.4.5",
+    "mocha": "^5.2.0",
+    "should": "^13.2.3"
   }
 }
