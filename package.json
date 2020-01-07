@@ -21,7 +21,7 @@
     "js-yaml": "^3.2.7",
     "lodash": "^4.17.11",
     "request": "^2.54.0",
-    "unzip": "^0.1.11"
+    "unzipper": "^0.8.14"
   },
   "devDependencies": {
     "body-parser": "^1.12.2",
